@@ -1,8 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 22-11-2025
-
-### Name:VAISHALI BALAMURUGAN
-### Register Number:212222230164
+### DATE: 24/10/2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -14,7 +11,7 @@
 
 ## PROCEDURE:
 ### For X-Axis Assembly
-###   1.	Select X-Axis Assembly from the visible list.a
+###   1.	Select X-Axis Assembly from the visible list.
 ###   2.	All the parts related to X-Axis will be shown on the screen.
 ###   3.	Select the parts in sequence in which they are shown.
 ###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
@@ -59,12 +56,11 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+
 
 ## Output:
-<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/1533f9a0-53cf-4d63-915b-b053d80ef1f5" />
+![image](https://github.com/user-attachments/assets/d04794de-c0fc-47ee-9231-1d8a88fa4569)
 
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
-
